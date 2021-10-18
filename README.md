@@ -29,11 +29,12 @@ I am a fullstack software engineer specializing in React Native mobile developme
   <img align="left" alt="css" src="https://img.shields.io/badge/-CSS-262626?style=for-the-badge&logo=csswizardry" />
   <img align="left" alt="python" src="https://img.shields.io/badge/-PYTHON-262626?style=for-the-badge&logo=python" />
  </div>
-
-
-
 <br>
 <br>
+
+## UI/UX Design
+<img align="left" alt="adobexd" src="https://img.shields.io/badge/-ADOBE XD-262626?style=for-the-badge&logo=adobexd" />
+<img align="left" alt="adobeillustrator" src="https://img.shields.io/badge/-ADOBE ILLUSTRATOR-262626?style=for-the-badge&logo=javascript" />
 
 <!--
 **jackclaxton/jackclaxton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
