@@ -34,7 +34,7 @@ I am a fullstack software engineer specializing in React Native mobile developme
 
 ## UI/UX Design
 <img align="left" alt="adobexd" src="https://img.shields.io/badge/-ADOBE XD-262626?style=for-the-badge&logo=adobexd" />
-<img align="left" alt="adobeillustrator" src="https://img.shields.io/badge/-ADOBE ILLUSTRATOR-262626?style=for-the-badge&logo=adobeillustrator" />
+<img align="left" alt="adobeillustrator" src="https://img.shields.io/badge/-ADOBE ILLUSTRATOR-300200?style=for-the-badge&logo=adobeillustrator" />
 
 <!--
 **jackclaxton/jackclaxton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
