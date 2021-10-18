@@ -16,8 +16,10 @@ I am a fullstack software engineer specializing in React Native mobile developme
 <br>
 
 ## Programming Languages
-<img align="left" alt="typescript" src="https://img.shields.io/badge/-TYPESCRIPT-yellow?style=for-the-badge&logo=typescript" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-blue?style=for-the-badge&logo=javascript" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/-TYPESCRIPT-lightgrey?style=for-the-badge&logo=typescript" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-green?style=for-the-badge&logo=javascript" />
+
+<br>
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
