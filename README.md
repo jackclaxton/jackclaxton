@@ -33,7 +33,7 @@ I am a fullstack software engineer specializing in React Native mobile developme
 <br>
 
 ## UI/UX Design
-<img align="left" alt="adobexd" src="https://img.shields.io/badge/-ADOBE XD-262626?style=for-the-badge&logo=adobexd" />
+<img align="left" alt="adobexd" src="https://img.shields.io/badge/-ADOBE XD-450134?style=for-the-badge&logo=adobexd" />
 <img align="left" alt="adobeillustrator" src="https://img.shields.io/badge/-ADOBE ILLUSTRATOR-300200?style=for-the-badge&logo=adobeillustrator" />
 
 <!--
