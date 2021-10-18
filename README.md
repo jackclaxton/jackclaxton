@@ -15,21 +15,16 @@ I am a fullstack software engineer specializing in React Native mobile developme
 <br>
 <br>
 
-## Programming Languages
-<img align="left" alt="typescript" src="https://img.shields.io/badge/-TYPESCRIPT-3b3b3b?style=for-the-badge&logo=typescript" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-3b3b3b?style=for-the-badge&logo=javascript" />
-<img align="left" alt="html" src="https://img.shields.io/badge/-HTML-3b3b3b?style=for-the-badge&logo=html5" />
-<img align="left" alt="css" src="https://img.shields.io/badge/-CSS-3b3b3b?style=for-the-badge&logo=csswizardry" />
-<img align="left" alt="python" src="https://img.shields.io/badge/-PYTHON-3b3b3b?style=for-the-badge&logo=python" />
-
-
-<br>
-<br>
-
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="firebase" src="https://img.shields.io/badge/-FIREBASE-blue?style=for-the-badge&logo=firebase" />
+<br>
+<img align="left" alt="typescript" src="https://img.shields.io/badge/-TYPESCRIPT-262626?style=for-the-badge&logo=typescript" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-262626?style=for-the-badge&logo=javascript" />
+<img align="left" alt="html" src="https://img.shields.io/badge/-HTML-262626?style=for-the-badge&logo=html5" />
+<img align="left" alt="css" src="https://img.shields.io/badge/-CSS-262626?style=for-the-badge&logo=csswizardry" />
+<img align="left" alt="python" src="https://img.shields.io/badge/-PYTHON-262626?style=for-the-badge&logo=python" />
 
 
 <br>
