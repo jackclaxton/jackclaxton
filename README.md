@@ -1,6 +1,11 @@
-### Hello World 👋
+### Hi! I'm Jack 👋
 I am a fullstack software engineer specializing in React Native mobile development
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔑 Self-taught mobile & web developer
+- 🔭 Working on multiple frontend and backend projects using React and Nodejs
+- ❤️ I love writting code and reading about it
+- 📚 I’m currently learning ReactJS and mySQL
+- 💬 Available to chat about new opportunities and exciting projects
+
 <br>
 
 ## Connect with me
