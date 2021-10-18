@@ -1,6 +1,7 @@
 ### Hello World 👋
 I am a fullstack software engineer specializing in React Native mobile development
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
+<br>
 
 ## Connect with me
 
