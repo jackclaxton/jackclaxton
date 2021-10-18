@@ -15,10 +15,15 @@ I am a fullstack software engineer specializing in React Native mobile developme
 <br>
 <br>
 
+## Programming Languages
+<img align="left" alt="typescript" src="https://img.shields.io/badge/-TYPESCRIPT-blue?style=for-the-badge&logo=typescript" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge&logo=javascript" />
+
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="firebase" src="https://img.shields.io/badge/-FIREBASE-blue?style=for-the-badge&logo=firebase" />
+
 
 <br>
 <br>
