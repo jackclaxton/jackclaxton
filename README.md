@@ -22,12 +22,14 @@ I am a fullstack software engineer specializing in React Native mobile developme
 
 <br>
 <br>
+<div>
+  <img align="left" alt="typescript" src="https://img.shields.io/badge/-TYPESCRIPT-262626?style=for-the-badge&logo=typescript" />
+  <img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-262626?style=for-the-badge&logo=javascript" />
+  <img align="left" alt="html" src="https://img.shields.io/badge/-HTML-262626?style=for-the-badge&logo=html5" />
+  <img align="left" alt="css" src="https://img.shields.io/badge/-CSS-262626?style=for-the-badge&logo=csswizardry" />
+  <img align="left" alt="python" src="https://img.shields.io/badge/-PYTHON-262626?style=for-the-badge&logo=python" />
+ </div>
 
-<img align="left" alt="typescript" src="https://img.shields.io/badge/-TYPESCRIPT-262626?style=for-the-badge&logo=typescript" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-262626?style=for-the-badge&logo=javascript" />
-<img align="left" alt="html" src="https://img.shields.io/badge/-HTML-262626?style=for-the-badge&logo=html5" />
-<img align="left" alt="css" src="https://img.shields.io/badge/-CSS-262626?style=for-the-badge&logo=csswizardry" />
-<img align="left" alt="python" src="https://img.shields.io/badge/-PYTHON-262626?style=for-the-badge&logo=python" />
 
 
 <br>
