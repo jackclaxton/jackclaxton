@@ -21,6 +21,7 @@ I am a fullstack software engineer specializing in React Native mobile developme
 <img align="left" alt="firebase" src="https://img.shields.io/badge/-FIREBASE-blue?style=for-the-badge&logo=firebase" />
 
 <br>
+<br>
 
 <img align="left" alt="typescript" src="https://img.shields.io/badge/-TYPESCRIPT-262626?style=for-the-badge&logo=typescript" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/-JAVASCRIPT-262626?style=for-the-badge&logo=javascript" />
