@@ -6,16 +6,15 @@ I’m a React Native developer with 3+ years of experience building cross-platfo
 
 - **Mobile:** React Native (Expo & bare)
 - **Web:** React, Ember.js
-- **Backends:** Firebase, Supabase, Node.js, Ruby
+- **Backends:** Ruby on Rails, Firebase, Supabase, Node.js
 - **Languages:** TypeScript, JavaScript, Ruby
 - **Payments:** Stripe
 - **Tooling:** GitHub, VSCode, Cursor
-- **UX Polish:** Component libraries, animations, pixel-perfect layouts
 
 ## 📱 What I Build
 
 - Cross-platform mobile apps
-- Responsive web apps (React & Ember)
+- Responsive web apps
 - MVPs and production-ready features
 - Payments, logins, real-time sync, push notifications
 - Lightweight custom backends
