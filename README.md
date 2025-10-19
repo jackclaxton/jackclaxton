@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jack
 
-I’m a React Native developer with 3+ years of experience building cross-platform mobile apps from idea to the App Store & Google Play Store. I’ve shipped production apps for startups, solo founders, and my own ventures — with clean UI, scalable logic, and fast delivery.
+I’m a React Native developer with 5+ years of experience building cross-platform mobile apps from idea to the App Store & Google Play Store. I’ve shipped production apps for startups, solo founders, and my own ventures — with clean UI, scalable logic, and fast delivery.
 
 ## ⚙️ Tech I Work With
 
